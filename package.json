@@ -1,7 +1,7 @@
 {
-  "name": "puppeteer-video-recorder",
-  "version": "1.0.3",
-  "description": "This package creates a video of Puppeteer's page, using Chrome API screencast and ffmpeg",
+  "name": "bbb-puppeteer-video-recorder",
+  "version": "1.0.0",
+  "description": "For BigBlueButton Testing, this package creates a video of Puppeteer's page, using Chrome API screencast and ffmpeg",
   "main": "index.js",
   "scripts": {
     "test": "node ./tests/openGoogle.js"
